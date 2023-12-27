@@ -6,4 +6,7 @@ Mission 3: intterazzione con commandi "cd LOCATION1/LOCATION2/LOCATION3" che ci 
 Mission 4: interazzione con commando "mkdir" che permette di creare una cartella in un altra.
 Mission 5: interazzione con commando "rm" che ci permette di cancellare oppure rimuoveere cartelle.
 Mission 6: interazzione con commando "mv" per spostare una cartella o file in un altra cartella.
-Mission 7: 
+Mission 7: interazzione con commando "ls -A" per cartella o file nascosta.
+Mission 8: interazzione con commando "rm **" per cancellare specifici file.
+Mission 9: interazzione con commando "rm .**" per cancellare specifici file nascoste.
+Mission 10: interazzione con commando "cp" per copiare specifici file.
